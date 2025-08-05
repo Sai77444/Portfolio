@@ -18,8 +18,8 @@ function Homepage() {
       <div className="mt-10 md:mt-0 md:ml-20">
         <div className="w-70 h-70 rounded-full overflow-hidden border-4 border-violet-500 shadow-lg hover:scale-105 transition-transform duration-300">
           <img
-            src="\src\assets\sai.jpg"
-            alt="Sai Borse"
+            src={img}
+            alt="sai.jpg"
             className="w-full h-full object-cover"
           />
         </div>
